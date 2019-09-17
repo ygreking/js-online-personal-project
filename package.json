@@ -1,0 +1,18 @@
+{
+  "name": "js-online-personal-project",
+  "version": "1.0.0",
+  "description": "JS Online Personal Project",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node --experimental-modules index.mjs",
+    "debug": "ndb node --experimental-modules index.mjs"
+  },
+  "author": "Igor Kharabet",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.0.0"
+  },
+  "dependencies": {
+    "ndb": "^1.1.4"
+  }
+}

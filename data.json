@@ -1,0 +1,21 @@
+{
+	"usd": {
+		"balance": 1550,
+		"isFrozen": false 
+	},
+    "eur": {
+		"balance": 340,
+		"isFrozen": false
+	},
+    "exchange": {
+		"rate": 0.86,
+		"usd": 0,
+		"eur": 0
+	},
+    "operation": {
+        "type": "exchange",
+        "source": "usd",
+        "destination": "eur",
+        "amount": 400
+    }
+}
